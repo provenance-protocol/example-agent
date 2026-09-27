@@ -10,7 +10,6 @@ capabilities:
   - write:summaries
 constraints:
   - no:pii
-  - no:financial:transact
 data:
   retention: none
   training_use: none
@@ -18,4 +17,4 @@ data:
 identity:
   public_key: MCowBQYDK2VwAyEAyXhqJg6i4uQ14Dbr+LHHKbB4tcXeslHNY7+9ps8gzLA=
   algorithm: ed25519
-  signature: XuSGNrdrT3UCsxbfLvscXCB6OF2RuUATuZelqozJspxp/MLUokKki4GZxUfPETEYF/r/diE2Cj5QncM5gAiSBA==
+  signature: JqYCXcC9k/TCqW8uFfhPLhHP36V/x4P1IM5Cl69TYRKCMm3w5LMKxRn835Eu8hjBNxFimQyMnxFZS7tk51PJAw==
