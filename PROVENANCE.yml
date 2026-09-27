@@ -14,8 +14,10 @@ constraints:
 data:
   retention: none
   training_use: none
-  regions: [ EU ]
+  regions:
+    - EU
+    - US
 identity:
   public_key: MCowBQYDK2VwAyEAyXhqJg6i4uQ14Dbr+LHHKbB4tcXeslHNY7+9ps8gzLA=
   algorithm: ed25519
-  signature: JqYCXcC9k/TCqW8uFfhPLhHP36V/x4P1IM5Cl69TYRKCMm3w5LMKxRn835Eu8hjBNxFimQyMnxFZS7tk51PJAw==
+  signature: yhpZ9bc4gcxEx+/tc57ySEvC7UIRlLkunVbhPsAcIEskdbVIeltd9Rb9rNqkgVen4jQfHqqkuJIc6hPanTJgAA==
