@@ -1,9 +1,10 @@
 # An example Provenance declaration. See README.md.
 provenance: "0.2"
-name: Example Research Agent
+# The name shown to people
+name: "Example Research Agent"
 description: Searches the web and summarises what it finds. A reference
   declaration for the Provenance Protocol.
-version: 1.0.0
+version: "1.0.0"   # semantic version
 provenance_id: provenance:github:provenance-protocol/example-agent
 capabilities:
   - read:web
